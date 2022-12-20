@@ -114,4 +114,8 @@ WARNING: Running pip as the 'root' user can result in broken permissions and con
 ![Alt text](img/Screen-2022-12-05-20-53-14.png)
 ![Alt text](img/Vault.png)
 
+Так отработал python-код:
+![](img/Screen_PythonCode.png) 
 
+Такой результат в Vault:
+![](img/Screen_PythonCode_result.png) 
